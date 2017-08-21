@@ -104,6 +104,18 @@ tags:
 ---
 ```
 
+### Front Matter example
+
+```toml
++++
+title = "Example article title"
+date = "2017-08-21"
+description = "Example article description" Optional
+thumbnail = "img/placeholder.jpg" # Optional, thumbnail
+disable_comments = false # Optional, disable Disqus comments if true
++++
+```
+
 For more information about front matter variables read [Hugo Front Matter](https://gohugo.io/themes/installing-and-using-themes/) from Hugo official documentation.
 
 ## Contributing
