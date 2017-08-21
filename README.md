@@ -110,7 +110,7 @@ tags:
 +++
 title = "Example article title"
 date = "2017-08-21"
-description = "Example article description" Optional
+description = "Example article description"
 thumbnail = "img/placeholder.jpg" # Optional, thumbnail
 disable_comments = false # Optional, disable Disqus comments if true
 +++
